@@ -1,6 +1,6 @@
 # Projeto React Testing Library
 
-Neste projeto foi desenvovido testes para uma aplicação React utilizando Jest e a biblioteca React Testing Library.
+Neste projeto foram desenvolvidos testes para uma aplicação React utilizando Jest e a biblioteca React Testing Library.
 A aplicação contém uma implementação completa de todos os requisitos da Pokédex.
 
 ⚠️ A Trybe já forneceu a aplicação pronta, o que foi desenvolvido por mim foram somente os testes.
